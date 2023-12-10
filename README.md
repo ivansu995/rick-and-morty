@@ -13,7 +13,6 @@
 
 ```html
 [public] git clone https://github.com/ivansu995/rick-and-morty.git
-rick-and-morty
 ```
 
 -   Go to directory: `cd rick-and-morty`
