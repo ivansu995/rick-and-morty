@@ -12,7 +12,7 @@
 -   Clone the Repo
 
 ```html
-[public] git clone https://github.com/ivansu995/rick-and-morty.git
+git clone https://github.com/ivansu995/rick-and-morty.git
 ```
 
 -   Go to directory: `cd rick-and-morty`
