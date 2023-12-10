@@ -1,3 +1,29 @@
+## Features
+
+-   **Dynamic Search**: A real-time search feature allows users to filter characters by their names as they type
+-   **Character Status Filter**: Users can filter characters based on their status (Alive, Dead, or Unknown)
+-   **Infinite Scroll Pagination**: Characters list is paginated with infinite scroll
+-   **UI Library**: Tailwind CSS is used for styling
+-   **Responsive Design**: The app is fully responsive and optimized for mobile devices
+-   **Clean and Commented Code**: The codebase follows best practices with clear commenting to enhance readability and maintainability
+
+## Setup & Installation Instructions
+
+-   Clone the Repo
+
+```html
+[public] git clone https://github.com/ivansu995/rick-and-morty.git
+rick-and-morty
+```
+
+-   Go to directory: `cd rick-and-morty`
+
+-   Install all dependencies using command `npm install`
+
+-   Run `npm start` to start project
+
+-   Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
